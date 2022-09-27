@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class RedisSpringbootDemoApplicationTests {
-    //test
+    //test1
     @Test
     void contextLoads() {
     }
